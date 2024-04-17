@@ -1,0 +1,131 @@
+Curiosidades de Tecnologia
+
+Tudo aquilo que você sempre quis saber sobre o mundo Tech, em um único lugar
+
+[MENU]
+Home
+Notícias
+Curiosidades
+Fale Conosco
+
+
+# Inteligência Artificial
+
+Com o grande aumento do uso da Inteligência Artificial e seu uso constante, tornou-se um pouco díficil identificar qual realmente é útil para o uso e qual não é, diante desse nevoeiro de informações que se atualizam dia após dia. Mais você sabe sobre como surgiu a Inteligência Artificial?
+
+A inteligência artificial (de sigla: IA; do inglês: artificial intelligence, de sigla: AI) é um campo de estudo multidisciplinar que abrange varias áreas do conhecimento. É também um conjunto de novas tecnologias que permitem aos aparelhos smart executarem várias funções avançadas de modo quase autônomo, representanto um marco histórico na computação moderna.
+
+# História da Inteligência Artificial
+
+Os primeiros estudos sobre inteligência artificial (IA) a um propósito comum, teve ínicio a partir de iniciativas de cientistas de diversas áreas, como: psicologia, ciência cognitiva, ciência da computação e, robótica. Promovendo ferramentas eficientes em analisar problemas e oferecer soluções e planejamentos (tomada de decisão), automatização de tarefas no cotidiano das pessoas.
+
+Mas apesar dos estudos serem modernos, o conceito de inteligência artificial não é contemporâneo; Aristóteles (professor de Alexandre, o Grande) sonhava em substituir a mão-de-obra escrava por ferramentas autônomas, sendo esta possivelmente a primeira idéia de Inteligência Artificial relatada, que a ciência da computação exploraria muito tempo depois.
+
+O desenvolvimento dessa ideia ocorreu plenamente no Século XX, principalmente na década de 1950, com pensadores como *Herbert Simon* e *John McCarthy*. Inicialmente os teste em IA foram repletos de sucessos – porém limitados devido o desempenho reduzido dos primeiros computadores - oque causava surpresa, foi o fato de um computador realizar atividade remotamente inteligente.
+
+
+# A primeira versão
+
+
+A primeira tentativa de se criar uma Inteligência Artificial se consiste no sucesso inicial que se deu inicio com o *General Problem Solver* (Solucionador de problemas gerais) ou **GPS**, desenvolvido por Newell e Simon. Esse programa foi projetado para imitar protocolos humanos de resolução de problemas. Dentro da classe limitada de quebra-cabeças com a qual podia lidar, verificou-se que a ordem em que os seres humanos abordavam os mesmos problemas. Desse modo, o GPS talvez tenha sido o primeiro programa a incorporar a abordagem de “pensar de forma humana”
+
+
+[FOTO GPS]
+> A história do GPS: O aparelho que revolucionou o montanhismo
+
+# Construção 
+
+
+A ideia de ter se construiar uma inteligência artificial foi amadurecendo e a missão foi passada para uma profissional da área. A IA começou como um campo experimental nos anos 50 com pioneiros como <Allen Newell> e <Herbert Simon>, que fundaram o primeiro laboratório de inteligência artificial na <Universidade Carnegie Mellon>, e McCarty que juntamente com <Marvin Minsky>, que fundaram o MIT AI Lab em 1959.
+
+[FOTO ELLEN E HELBERT]
+
+
+Historicamente, existem dois grandes estilos de investigação em IA: IA "neats" e IA "scruffies". A IA "neats", limpa, clássica ou simbólica. Envolve a manipulação de símbolos e de conceitos abstractos, e é a metodologia utilizada na maior parte dos sistemas periciais.
+
+# Campos de estudo
+
+Algumas das principais áreas relacionadas à IA incluem:
+
+1. <Ciência da Computação>: A ciência da computação desempenha um papel central na IA, fornecendo as bases teóricas e práticas para o desenvolvimento de algoritmos, modelos e técnicas computacionais para simular a inteligência humana.
+
+2. <Matemática e Estatística>: A matemática e a estatística fornecem os fundamentos teóricos para a modelagem e análise de algoritmos de IA, incluindo aprendizagem de máquina, redes neurais e processamento de dados.
+
+3. <Aprendizagem de Máquina> (Machine Learning): A aprendizagem de máquina é uma subárea da IA que se concentra no desenvolvimento de algoritmos que permitem aos computadores aprender e melhorar com base em dados. Isso envolve a aplicação de técnicas estatísticas e algoritmos de otimização.
+
+4. <Ciência Cognitiva>: A ciência cognitiva estuda os processos mentais e a inteligência humana, e suas contribuições para a IA estão relacionadas à compreensão e modelagem dos processos cognitivos para o desenvolvimento de sistemas inteligentes.
+
+5. <Neurociência Computacional>: A neurociência computacional busca entender o funcionamento do cérebro humano e aplicar esses insights no desenvolvimento de modelos e algoritmos de IA inspirados no cérebro.
+
+6. <Filosofia da Mente>: A filosofia da mente explora questões relacionadas à natureza da mente, da consciência e da inteligência, oferecendo perspectivas teóricas importantes para o campo da IA.
+
+7. <Linguística Computacional>: A linguística computacional envolve o processamento de linguagem natural (PLN), que se concentra no desenvolvimento de algoritmos e técnicas para que os computadores compreendam e processem a linguagem humana.
+
+
+[FOTO IA]
+
+A principal inspiração para os traços do novo Bugdroid veio daqueles bonequinhos que ilustram portas de banheiro para indicar o gênero de cada porta. Conta a lenda que a artista estava criando em sua mesa no escritório do Google e olhou para o lado dos banheiros e a identificação foi imediata: simples, limpo, objetivo.
+
+[VIDEO https://www.youtube.com/watch?v=D0O-Lk_Dnkw]
+ 
+[EXTRA] Quer aprender mais? 
+
+Outro assunto curioso em relação a Inteligência Artifical é que o desempenho em tarefas específicas, como reconhecimento de imagem, tradução de idiomas, jogos estratégicos,etc, são frequentemente impulsionados por melhorias em algoritmos, hardware mais poderoso e conjuntos de dados mais amplos e de melhor qualidade. Esses conjuntos de melhorias pode trazer um aumento significativo na vida do ser humano já que a capacidade dos computadores dobra aproximadamente a cada dois anos, segundo a Lei de Moore. Sabendo disso, separamos algumas ferramentas de Inteligência Artificial para que você possa minimizar suas tarefas e economizar o seu tempo.
+
+
+1 - Vídeos
+1.1 - <Synthesia> https://www.synthesia.io
+1.2 - <Heygen> https://www.heygen.com
+1.3 - <Runwayml> https://runwayml.com
+1.4 - <Movio-ia> https://www.businessia.com.br/ferramentas/movio-ia/
+1.5 - <Fliki> https://fliki.ai
+
+
+2 - Imagens
+2.1 - <Openai> https://openai.com/dall-e-3
+2.2 - <Stability> https://stability.ai
+2.3 - <Zmoai> https://www.zmo.ai
+2.4 - <Leonardo.ai> https://app.leonardo.ai
+2.5 - <Midjourney> https://www.midjourney.com/home
+
+3 - Criador de sites
+3.1 - <10web> https://10web.io
+3.2 - <Durable> https://pt-br.durable.co
+3.3 - <Framer> https://www.framer.com
+
+
+4 - Escrita
+4.1 - <Writesonic> https://writesonic.com
+4.2 - <Jasper> https://www.jasper.ai
+4.3 - <Rytr> https://rytr.me
+4.4 - <Jenni> https://jenni.ai
+4.5 - <Chatgpt> https://chat.openai.com
+
+5 - Design
+5.1 - <Flair> https://flair.ai
+5.2 - <Canva IA> https://www.canva.com/pt_br/gerador-imagem-ia/
+5.3 - <Booth> https://www.booth.ai
+5.4 - <Pebblely> https://pebblely.com/br/
+5.5 - <Pacdora> https://www.pacdora.com/pt
+5.6 - <Kittl> https://www.kittl.com
+5.7 - <Studio.polotno> https://studio.polotno.com
+5.8 - <Microsoft Designer> https://designer.microsoft.com
+
+6 - Marketing
+6.1 - <Adcreative> https://pt.adcreative.ai
+6.2 - <Simplifield> https://www.simplifield.com
+6.3 - <trypencil> https://www.trypencil.com
+
+7 - Vídeos curtos
+7.1 - <Klap> https://klap.app
+7.2 - <Topview>> https://www.topview.ai
+7.3 - <Submagic> https://www.submagic.co
+
+, o Android Q não existiu, pois o Google resolveu pôr fim a essa divertida prática e começou a usar numerações, o que deu origem ao Android 10.
+
+Acesse aqui o site Android History para conhecer a sequência das versões "adocicadas" e o que cada uma trouxe para o sistema Android.
+[/EXTRA]
+
+Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre o sistema Android e seu simpático mascote.
+         
+Site criado por Gustavo Guanabara para o CursoemVideo.
