@@ -71,7 +71,7 @@ div.video{
     background-color: var(--cor10);
     margin: 0px -21px 30px -21px;
     padding: 20px;
-    padding-bottom: 57%; /* Retira a barra preta da lateral do video do yb */
+    padding-bottom: 56.5%; /* Retira a barra preta da lateral do video do yb */
     position: relative;
 }
 
