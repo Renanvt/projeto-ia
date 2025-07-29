@@ -17,7 +17,7 @@
     <br> 
 </p>
 <p align="center">
-  <a href="renanvt.github.io/projeto-ia/">renanvt.github.io/projeto-ia/</a>
+ https://renanvt.github.io/projeto-ia/
 </p>
 
 ![Imagem-site](imagens/site2.png)
